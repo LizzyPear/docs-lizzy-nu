@@ -11,4 +11,4 @@ API
 Profile Picture
 -----------------
 
-https://api.lizzy.nu/profilepicture/USERID
+https://api.lizzy.nu/profilepicture/``USERID`` 
